@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
      });
    });
  
-   // Smooth scroll for internal links within the sections
+   
    const internalLinks = document.querySelectorAll('section a[href="#"]');
  
    internalLinks.forEach(link => {
